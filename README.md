@@ -19,7 +19,7 @@ numerical simulations, and scientific programming.
 
 ## Project Roadmap
 
-- [ ] Qubit states and normalization
+- [x] Qubit states and normalization
 - [ ] Quantum gates and operators
 - [ ] Quantum measurements
 - [ ] Tensor products and multi-qubit systems
